@@ -34,7 +34,7 @@ I'm interested in exploring the intersection of biology, programming and technol
 - Contribute to open-source projects.
 
 ### 🤝 Let's Connect
-- LinkedIn: https://www.linkedin.com/in/kartik-biotech/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BHUH7xCmOTTSQmtOIu39DsA%3D%3D
+- LinkedIn: [Kartik](https://www.linkedin.com/in/kartik-biotech)
 - GitHub: [@kartik-biotech-hub](https://github.com/kartik-biotech-hub)
 
 ---
